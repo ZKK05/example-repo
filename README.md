@@ -1,2 +1,7 @@
-# example-repo
-This is a simple demo on how to use github.
+# Example Rpositpry
+
+##This is my second headig
+###This is my three headig
+
+This is an example of markdown file
+
